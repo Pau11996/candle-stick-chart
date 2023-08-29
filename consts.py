@@ -1,0 +1,1 @@
+CANDLES_PERIOD = ['1H', '5T']
